@@ -33,3 +33,6 @@ https://aws.plainenglish.io/adding-a-ssl-certificate-to-an-application-load-bala
 ![image](https://user-images.githubusercontent.com/107158398/220446443-f8566590-c751-48f6-8fac-ff08a96c8e26.png)
 
 ![image](https://user-images.githubusercontent.com/107158398/220446511-b8581bbd-d6d1-4d16-826e-80a8cced113b.png)
+![image](https://user-images.githubusercontent.com/107158398/220462384-b8ece759-81a2-4e88-8906-75c7f5481c54.png)
+![image](https://user-images.githubusercontent.com/107158398/220462467-1877d5ce-2a67-423c-b088-ef3cc580f22d.png)
+

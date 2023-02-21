@@ -10,3 +10,26 @@ https://antonputra.com/amazon/create-alb-terraform/#create-aws-alb-with-ec2-back
 
 # Certificate and DNS Creation & attaching to the Load balancer:
 https://aws.plainenglish.io/adding-a-ssl-certificate-to-an-application-load-balancer-in-aws-966f8b5033e
+
+
+![image](https://user-images.githubusercontent.com/107158398/220445824-affe809b-b786-41f6-af74-1054749055a1.png)
+
+![image](https://user-images.githubusercontent.com/107158398/220445903-07767683-956b-475c-bece-7b2c8e6f3f5b.png)
+
+![image](https://user-images.githubusercontent.com/107158398/220445948-f8335159-09be-462a-bbad-bb1b3e0b195a.png)
+
+![image](https://user-images.githubusercontent.com/107158398/220446008-f3cc7a8d-7497-4608-8df9-4f38bbb79c9e.png)
+
+![image](https://user-images.githubusercontent.com/107158398/220446051-63156963-2a0a-4e2b-ad1a-3a903b26b83f.png)
+
+![image](https://user-images.githubusercontent.com/107158398/220446134-1d2ef3e0-a752-47e0-b1b7-cd23f0cff6e8.png)
+
+![image](https://user-images.githubusercontent.com/107158398/220446198-3f781755-e2cd-4659-b383-e15e29745d41.png)
+![image](https://user-images.githubusercontent.com/107158398/220446300-85e3cc59-fb40-402e-a23d-a3d3a3a8dc97.png)
+![image](https://user-images.githubusercontent.com/107158398/220446349-8c2f6fec-ac11-4dd0-96ff-ae87453da241.png)
+
+![image](https://user-images.githubusercontent.com/107158398/220446402-45ea1a56-dcba-40fa-9f62-d59918227315.png)
+
+![image](https://user-images.githubusercontent.com/107158398/220446443-f8566590-c751-48f6-8fac-ff08a96c8e26.png)
+
+![image](https://user-images.githubusercontent.com/107158398/220446511-b8581bbd-d6d1-4d16-826e-80a8cced113b.png)

@@ -7,6 +7,8 @@ https://antonputra.com/amazon/create-alb-terraform/#create-aws-alb-with-ec2-back
 
 ![image](https://user-images.githubusercontent.com/107158398/220324702-1b9236a1-cd66-4618-a574-41f443b9cbf1.png)
 
+### Manual launch template
+![image](https://github.com/devopstrainingschool/stephanie2-project-3tier/assets/107158398/c2cf9f06-1d83-4a89-b426-0209b8e375b4)
 
 # Certificate and DNS Creation & attaching to the Load balancer:
 https://aws.plainenglish.io/adding-a-ssl-certificate-to-an-application-load-balancer-in-aws-966f8b5033e
